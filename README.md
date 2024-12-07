@@ -55,15 +55,13 @@ _Almería | 19/09/2023 – 30/11/2023_
 
 ## 🛠️ Habilidades Técnicas
 **Lenguajes y Tecnologías:**
-- HTML, CSS, JavaScript, PHP, MySQL
-- Java, Python
+- HTML, CSS, JavaScript, PHP, MySQL, Java, Python
 
 **Frameworks y Librerías:**
 - Laravel, Vue.js, React, Bootstrap, Tailwind, Mui
 
 **Herramientas:**
-- Git, GitHub, GitLab, AWS, Docker, XAMPP, Datatables, WordPress, Elementor
-- Anaconda, Jupyter, Google Colab
+- Git, GitHub, GitLab, AWS, Docker, XAMPP, Datatables, WordPress, Elementor, Anaconda, Jupyter, Google Colab
 
 ---
 

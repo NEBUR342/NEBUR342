@@ -21,7 +21,7 @@ _Almería | 03/06/2024 – 05/08/2024_
 - Desarrollo frontend con **React**, **Mui**, y **Tailwind**.
 - Implementación de sitios web en **WordPress** usando plugins como Elementor y WPvivid Backup Plugin.
 
-### [Globomatik](https://www.globomatik.com) - Desarrollador web (Prácticas no laborales)  
+### [Globomatik](https://www.globomatik.com) - Desarrollador web (Prácticas en IES AL-Ándalus)  
 _Almería | 19/09/2023 – 30/11/2023_  
 - Desarrollo de proyectos en la intranet de la empresa.
 - Creación de formularios para facturas y aprendizaje del uso de **Datatable**.

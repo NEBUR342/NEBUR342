@@ -3,6 +3,8 @@
 **Programador Full Stack**  
 Busco formar parte de un equipo donde pueda aplicar mis conocimientos y continuar creciendo profesionalmente.
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nebur342&show_icons=true&theme=radical)
+
 ## 📄 Perfil
 - Técnico superior en Desarrollo de Aplicaciones Web (DAW).
 - Disponibilidad inmediata, flexibilidad horaria y movilidad geográfica.

@@ -6,9 +6,7 @@ Busco formar parte de un equipo donde pueda aplicar mis conocimientos y continua
 ## 📊 Mis Estadísticas  
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nebur342&show_icons=true&theme=radical)
 
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=nebur342&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nebur342&theme=radical)
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=nebur342&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nebur342&theme=radical)
 
 
 ## 📄 Perfil

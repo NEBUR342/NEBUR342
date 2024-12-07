@@ -16,16 +16,18 @@ Busco formar parte de un equipo donde pueda aplicar mis conocimientos y continua
 
 ## 💼 Experiencia Profesional
 
+### EnHomenaje - Desarrollador web  
+_Almería | 03/06/2024 – 05/08/2024_  
+- Desarrollo frontend con **React**, **Mui**, y **Tailwind**.
+- Implementación de sitios web en **WordPress** usando plugins como Elementor y WPvivid Backup Plugin.
+
 ### [Globomatik](https://www.globomatik.com) - Desarrollador web (Prácticas no laborales)  
 _Almería | 19/09/2023 – 30/11/2023_  
 - Desarrollo de proyectos en la intranet de la empresa.
 - Creación de formularios para facturas y aprendizaje del uso de **Datatable**.
 - **Tecnologías utilizadas:** Bootstrap, HTML, CSS, PHP, Laravel, Datatable.
 
-### EnHomenaje - Desarrollador web  
-_Almería | 03/06/2024 – 05/08/2024_  
-- Desarrollo frontend con **React**, **Mui**, y **Tailwind**.
-- Implementación de sitios web en **WordPress** usando plugins como Elementor y WPvivid Backup Plugin.
+## 💼 Voluntariados
 
 ### Asociación ANÍMATE  
 - **Limpieza de restos arqueológicos** (10/08/2021 – 24/08/2021): Trabajo en equipo para limpiar una zona arqueológica.  
@@ -34,8 +36,17 @@ _Almería | 03/06/2024 – 05/08/2024_
 ---
 
 ## 🎓 Educación
+- **Photoshop**  
+  Taller Municipal de fotografía | Octubre 2024 - En proceso  
+
+- **Ciberseguridad**  
+  IES Aguadulce | Octubre 2024 - En proceso
+
+- **Python & Deep Learning**  
+  InfoThot | Julio de 2024 - Septiembre de 2024
+
 - **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**  
-  IES Al-Andalus | Septiembre de 2020 – Diciembre de 2023  
+  IES Al-Andalus | Septiembre de 2020 – Diciembre de 2023
 
 - **Bachillerato en Ciencias Sociales**  
   IES Almeraya | Septiembre de 2018 – Julio de 2020  
